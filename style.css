@@ -1,0 +1,11 @@
+body {
+    font-family: 'andale mono', courier, sans-serif
+}
+
+#content {
+    margin: 2em;
+}
+
+h1 {
+    font-size: 18px;
+}
